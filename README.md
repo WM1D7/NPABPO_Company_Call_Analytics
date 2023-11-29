@@ -15,9 +15,11 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 
  ## 🛠 Skills Demonstrated :
 
--  Web Scraping
+-  Data Collection
 -  ETL ( Extract, Transform, Load )
--  Data Pre-processing and Cleaning
+-  Data Pre-processing and Cleaning  
+-  Data manipulation
+-  Exploratory data analysis (EDA) 
 -  Data Analysis
 -  Data Visualization
 
