@@ -15,11 +15,12 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 
  ## 🛠 Skills Demonstrated :
 
--  Data Collection
--  ETL ( Extract, Transform, Load )
+-  Data Collection (ETL)
 -  Data Pre-processing and Cleaning  
 -  Data manipulation
--  Exploratory data analysis (EDA) 
+-  Exploratory data analysis (EDA)
+-  Dax function
+-  Key Performance Indicator (KPI)
 -  Data Analysis
 -  Data Visualization
 
@@ -68,9 +69,28 @@ https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scrapi
 
 **Data Modeling:**
 -  Structure the data for effective integration into Power BI, ensuring proper relationships and compatibility.
- 
+
+<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Data%20Model.png" width="1000" height="600">
+
+**Important kpi,filter and slicer visual:**
+
+<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/KPI%20_Filter%20_Slicer.png" width="600" height="300">
+
 **Visualization Design**: 
 -  Create visually appealing and informative dashboards that highlight key performance indicators, recovery trends, and portfolio-specific insights.
+
+**Deliverables :**
+
+<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Dashboard.png" width="1200" height="600">
+
+
+
+## Conclusion:
+
+This comprehensive approach integrates data analysis, efficiency evaluation, optimization strategies, visualization, and continuous monitoring to enhance loan recovery efforts.      
+It is designed to be iterative, allowing for ongoing improvements based on performance feedback and evolving data patterns.
+In the journey to enhance loan recovery strategies ,this project mark a significant step toward elevating recovery efforts to new heights.
+
 
 
 
