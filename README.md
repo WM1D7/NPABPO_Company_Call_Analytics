@@ -23,5 +23,59 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 -  Data Analysis
 -  Data Visualization
 
+## Dataset : 
+https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scraping
+
+##  Objectives :
+
+**Conduct Comprehensive Data Analysis:**
+-  Make necessary Data Analysis based on the project file.
+
+**Efficiency Assessment:**
+-  Evaluate efforts/attempts being wasted on some loan data if any.
+
+**Identify and Optimize Promising Loan Data:**
+-  Evaluate no/less attempts being made on promising loan data.
+
+**Power BI Dashboard Development:**
+-  Utilize Power BI to design interactive and visually compelling dashboard.
+
+**Daily Attempt Calculation:**
+-  Calculate daily attempts being made in respective portfolio.
+
+**Inconsistency Detection in Daily Attempts:**
+-  Whether any inconsistencies observed in daily attempts?
+
+**The deliverables will provide a holistic view of recovery performance and actionable recommendations for continuous improvement.**
+
+## Approach :
+
+  **Data Collection:**
+  -  Gather and consolidate the loan dataset provided, ensuring completeness and accuracy.
+
+  **Exploratory Data Analysis (EDA)**
+  -   Conduct initial exploratory data analysis to understand the structure of the data, identify patterns, and uncover potential insights.
+
+  **Efficiency Assessment:**
+
+-  Define Metrics: Establish key metrics for assessing the efficiency of recovery efforts, such as success rates, time spent on unsuccessful attempts, and resource allocation.
+
+**Promising Loan Data Optimization:**
+
+-  Criteria Identification: Define criteria for identifying promising loan data, considering factors like payment history, communication responsiveness.
+
+ **Power BI Dashboard Development:**
+
+**Data Modeling:**
+-  Structure the data for effective integration into Power BI, ensuring proper relationships and compatibility.
+ 
+**Visualization Design**: 
+-  Create visually appealing and informative dashboards that highlight key performance indicators, recovery trends, and portfolio-specific insights.
+
+
+
+  
+
+
 
 
