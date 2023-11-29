@@ -92,9 +92,11 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 
 ## Conclusion:
 
-This comprehensive approach integrates data analysis, efficiency evaluation, optimization strategies, visualization, and continuous monitoring to enhance loan recovery efforts.      
-It is designed to be iterative, allowing for ongoing improvements based on performance feedback and evolving data patterns.
-In the journey to enhance loan recovery strategies ,this project mark a significant step toward elevating recovery efforts to new heights.
+This comprehensive approach integrates data analysis, efficiency evaluation, optimization strategies, visualization, and continuous monitoring to enhance loan recovery efforts.         
+It is designed to be iterative, allowing for ongoing improvements based on performance feedback and evolving data patterns.         
+Implementation of a daily attempts calculation system has enhanced transparency and consistency in recovery efforts across portfolios.     
+By focusing on promising loan data, we've refined our recovery strategies, ensuring that efforts are strategically allocated to maximize successful outcomes.     
+In the journey to enhance loan recovery strategies ,this project mark a significant step toward elevating recovery efforts to new heights.    
 
 
 
