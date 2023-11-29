@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/wm1deep7/top-1000-imdb-movies-dataset-web-scrapi
 **Data Modeling:**
 -  Structure the data for effective integration into Power BI, ensuring proper relationships and compatibility.
 
-<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Data%20Model.png" width="1000" height="600">
+<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Data%20Model.png" width="700" height="400">
 
 **Important kpi,filter and slicer visual:**
 
