@@ -11,7 +11,7 @@ The Analytics project revolves around optimizing the recovery process for outsta
 Our mission is to engage with borrowers, establish meaningful connections, and persuasively encourage them to meet their payment commitments.
 
 ## Tech Stack Used
- <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" width="230" height="150"> <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" width="250" height="150">
+ <img src="https://www.outsourcingwise.com/wp-content/uploads/2019/07/png-transparent-microsoft-excel-logo-thumbnail.png" width="230" height="150"> <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" width="250" height="150">
 
  ## 🛠 Skills Demonstrated :
 
