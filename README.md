@@ -4,7 +4,7 @@
 
 ## Project Description :
 
-Astute Management Solutions & Services Private Limited presents a dynamic initiative focused on enhancing *call optimization through advanced analytics*.      
+Astute Management Solutions & Services Private Limited presents a dynamic initiative focused on enhancing **call optimization through advanced analytics**.      
 This project aims to leverage data-driven insights to refine and *improve the efficiency of our call management processes*.      
 With a commitment to excellence, we seek to elevate our services and ensure optimal outcomes for our clients.     
 The Analytics *project revolves around optimizing the recovery process for outstanding loans through strategic tele-calling efforts.*    
