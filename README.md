@@ -47,7 +47,7 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 -  Utilize Power BI to design interactive and visually compelling dashboard.
 
 **Daily Attempt Calculation:**
--  Calculate daily attempts being made in respective portfolio.
+-  Calculate daily attempts being made in respective portfolio. 1 - NBFC (Non-Banking Financial Company) 2 - MFI (Microfinance Institution)
 
 **Inconsistency Detection in Daily Attempts:**
 -  Whether any inconsistencies observed in daily attempts?
