@@ -88,7 +88,8 @@ Our mission is to engage with borrowers, establish meaningful connections, and p
 
 **Deliverables :**
 
-<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Dashboard.png" width="1200" height="600">
+
+<img src="https://github.com/WM1D7/NPABPO_Company_Call_Analytics/blob/main/image/Screenshot%20(9).png" width="1200" height="600">
 
 
 
